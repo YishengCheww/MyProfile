@@ -1,9 +1,10 @@
+<img align="center" alt="alt" width="400" src="https://c.tenor.com/iWVjQrBsyOEAAAAC/obito-laugh.gif">
 <h1 align="center">The Best YishengChew</h1>
 <h3 align="center">Nothing Speaical</h3>
 
 - Current work on **Z4P1XEL Server**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Social:</h3>
 <p align="left">
 <a href="https://instagram.com/yisheng_cheww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yisheng_cheww" height="30" width="40" /></a>
 <a href="https://discord.gg/QVn3AXwkhP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="QVn3AXwkhP" height="30" width="40" /></a>
