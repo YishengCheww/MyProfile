@@ -1,8 +1,7 @@
 <img align="center" alt="alt" width="400" src="https://c.tenor.com/iWVjQrBsyOEAAAAC/obito-laugh.gif">
 <h1 align="center">The Best YishengChew</h1>
-<h3 align="center">.Lua Are The Good Launguage</h3>
 
-- Current Doing On **Z4P1XEL RP**
+- Current Work On **Z4P1XEL RP**
 
 <h3 align="left">Social:</h3>
 <p align="left">
