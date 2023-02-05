@@ -1,4 +1,4 @@
-<img align="center" alt="alt" width="400" src="https://c.tenor.com/iWVjQrBsyOEAAAAC/obito-laugh.gif">
+<img align="center" alt="alt" width="400" src="https://media.tenor.com/8Al9TT782PQAAAAC/mitsuha-miyamizu.gif">
 <h1 align="center">The Best YishengChew</h1>
 
 - Current Work On **Z4P1XEL RP**
